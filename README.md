@@ -16,7 +16,7 @@ This repo hosts the codes and class material that will be used for the data anal
 | Week 2  | Central theorem and law of large numbers | [Link](https://drive.google.com/file/d/1WyV5CeLRqaEUq23UIfrRiCamEqynD-KV/view?usp=drive_link) [Practicum 1](https://colab.research.google.com/github/andresperez86/Data-Analitys/blob/master/Sem_2/Practicum_1.ipynb) 
 | Week 3  | Modeling paradigms | [Link](https://drive.google.com/file/d/1011VCSMoTdIz3ibcMEEgOF7NdSnmdt2H/view?usp=drive_link) [Practicum 2](https://colab.research.google.com/github/andresperez86/Data-Analitys/blob/master/Sem_3/Practicum_2.ipynb) 
 | Week 4  | Delivery 1
-| Week 5  |  Cluster analysis | 
+| Week 5  |  ED analysis | 
 | Week 6  | Hierarchical Grouping | 
 | Week 7  | Supervised Paradigm | 
 | Week 8  | Classification and regression | 
