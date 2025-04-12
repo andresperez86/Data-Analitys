@@ -16,9 +16,9 @@ This repo hosts the codes and class material that will be used for the data anal
 | Week 2  | Central theorem and law of large numbers | [Link](https://drive.google.com/file/d/1WyV5CeLRqaEUq23UIfrRiCamEqynD-KV/view?usp=drive_link) [Practicum 1](https://colab.research.google.com/github/andresperez86/Data-Analitys/blob/master/Sem_2/Practicum_1.ipynb) 
 | Week 3  | Modeling paradigms | [Link](https://drive.google.com/file/d/1011VCSMoTdIz3ibcMEEgOF7NdSnmdt2H/view?usp=drive_link) [Practicum 2](https://colab.research.google.com/github/andresperez86/Data-Analitys/blob/master/Sem_3/Practicum_2.ipynb) 
 | Week 4  | Delivery 1
-| Week 5  | EDA |  [Link ]() [Practicum 1](https://colab.research.google.com/drive/1G9fzWgiev4cIFo13OFHPqQ8TliFM4KhQ?usp=classroom_web) [Practicum 2](https://colab.research.google.com/drive/1YWhfU7gpWGZgfEG_3IZbmL4D2EZSa9YH?usp=classroom_web) [Practicum 3](https://colab.research.google.com/drive/10hnb-ItpGMoeiV1G2PC6TiYcuMqtRViC) 
+| Week 5  | EDA |  [Link ](https://docs.google.com/presentation/d/11GvUIKV2e_VhIRe2QcZMo6BxXR6jQ4N0/edit?usp=drive_link&ouid=105537747991610586758&rtpof=true&sd=true) [Practicum 1 Univariado](https://colab.research.google.com/drive/1G9fzWgiev4cIFo13OFHPqQ8TliFM4KhQ?usp=classroom_web) [Practicum 2 Bivariado](https://colab.research.google.com/drive/1YWhfU7gpWGZgfEG_3IZbmL4D2EZSa9YH?usp=classroom_web) [Practicum 3 Multivariado](https://colab.research.google.com/drive/10hnb-ItpGMoeiV1G2PC6TiYcuMqtRViC) 
 | Week 6  | Hierarchical Grouping |  [Link](https://docs.google.com/presentation/d/1lBKVPSUD48RPbimIyStxb-6Oa1vQVZ44CVO4MQACw2A/edit#slide=id.p1) [Practicum 4](https://colab.research.google.com/drive/1emL3Zee-_ni68mWhQ42JKqrT_NefmYfV#scrollTo=tl2RbxeFMZJf) 
-| Week 7  | Supervised Paradigm | 
+| Week 7  | Supervised Paradigm | [Link](https://docs.google.com/presentation/d/1rGXoY1y0o1QGozughl3s39zEhTNgbVLu/edit#slide=id.p1) [Practicum 4](https://colab.research.google.com/drive/1PAlbUYf_OrkpoqBaoLQwDX2QCkn7NSiO?usp=classroom_web) 
 | Week 8  | Classification and regression | 
 | Week 9  | Applications| 
 | Week 10 | Applications | 
