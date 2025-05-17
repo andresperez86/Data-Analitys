@@ -21,8 +21,8 @@ This repo hosts the codes and class material that will be used for the data anal
 | Week 7  | Supervised Paradigm | [Link](https://docs.google.com/presentation/d/1rGXoY1y0o1QGozughl3s39zEhTNgbVLu/edit#slide=id.p1) [Practicum 4](https://colab.research.google.com/drive/1PAlbUYf_OrkpoqBaoLQwDX2QCkn7NSiO?usp=classroom_web) 
 | Week 8  | Classification and regression | [Link](https://colab.research.google.com/drive/1d2biV0Nn2wygSupY4wXZS1tjv40OT94t#scrollTo=6eagFVBdVHRe)
 | Week 9  | REST API Server and Client|  
-| Week 10 | Applications | 
-| Week 11 | Applications | [Link](https://colab.research.google.com/drive/1SML21ZufnjSHZ8t_N76uS9TIpVz3OeHm#scrollTo=uAgF3I7KnNUa)[Link](https://colab.research.google.com/drive/1D4mo4jmsQVbdC5zX7qw5rB6Dnpkyvm_o#scrollTo=1pnAHdYm5jPw)
+| Week 10 | Applications House Pricing| [Link train Model](https://github.com/andresperez86/Data-Analitys/blob/master/Sem_10/HousePricing/train_model.py) [Link API Cliente]
+| Week 11 | Applications Prices Stock Netflix| [Link API CLIENT](https://colab.research.google.com/drive/1SML21ZufnjSHZ8t_N76uS9TIpVz3OeHm#scrollTo=uAgF3I7KnNUa)[Link SERVER](https://colab.research.google.com/drive/1D4mo4jmsQVbdC5zX7qw5rB6Dnpkyvm_o#scrollTo=1pnAHdYm5jPw)
 |        |  | 
 
 
